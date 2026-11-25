@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "kunush.monitor-arrangement",
+  "name": "Monitor Arrangement",
+  "version": "1.0.0",
+  "author": "Kunush",
+  "license": "MIT",
+  "repository": "https://github.com/Kunush/omarchy-monitor-arrangement",
+  "description": "Arrange your monitors from the bar: a to-scale map of your screens and Left / Above / Below / Right buttons that move a screen and save the layout to monitors.lua.",
+  "kinds": [
+    "bar-widget"
+  ],
+  "entryPoints": {
+    "barWidget": "Panel.qml"
+  },
+  "barWidget": {
+    "displayName": "Monitor Arrangement",
+    "description": "Arrange your monitors from the bar",
+    "category": "System",
+    "allowMultiple": false
+  }
+}

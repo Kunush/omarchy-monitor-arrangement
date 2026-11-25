@@ -1,0 +1,14 @@
+{
+  "arrange.panelTitle": "Monitor Arrangement",
+  "arrange.title": "ARRANGEMENT",
+  "arrange.relative": "%1 relative to %2",
+  "arrange.left": "Left",
+  "arrange.right": "Right",
+  "arrange.above": "Above",
+  "arrange.below": "Below",
+  "arrange.laptop": "Laptop",
+  "arrange.hint": "Click a screen to choose which one moves",
+  "arrange.single": "Connect another display to arrange your screens",
+  "arrange.failed": "Could not save the layout",
+  "arrange.screens": { "one": "%1 screen", "other": "%1 screens" }
+}
